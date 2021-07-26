@@ -1,0 +1,28 @@
+body{
+    margin: 0px; 
+    padding: 0px;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to top right,#0f9fbf, #033859 );
+}
+.in{
+    width: 50%;
+    height: 60vh;
+    background-color: #033859;
+}
+.texto{
+    color: white;
+}
+.parrafo{
+    color: white;
+}
+.ekko{
+
+    object-fit: cover;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content:left;
+}
